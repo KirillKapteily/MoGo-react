@@ -1,0 +1,17 @@
+[
+    {
+        "img": "../assets/first-man.jpg",
+        "title": "Matthew Dix",
+        "descr": "Graphic Design"
+    },
+    {
+        "img": "../assets/second-man.jpg",
+        "title": "Christopher Campbell",
+        "descr": "Branding/UX design"
+    },
+    {
+        "img": "../assets/third-man.jpg",
+        "title": "Michael Fertig ",
+        "descr": "Developer"
+    }
+]

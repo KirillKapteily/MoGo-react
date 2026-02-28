@@ -1,0 +1,67 @@
+.pre__title {
+    font-family: "Kaushan Script", cursive;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 68px;
+}
+
+.main__title {
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.card__title {
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.main__list {
+    display: flex;
+    gap: 70px;
+    list-style: none;
+    flex-wrap: wrap;
+    margin-top: 68px;
+}
+
+.text__list {
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    width: 274px;
+    color: #B6B6B6;
+}
+
+.main__hr {
+    width: 60px;
+    height: 4px;
+    background-color: #F38181;
+    border: none;
+    margin-top: 40px;
+}
+
+/* .container{
+width: 1200px;
+margin: 0 auto;
+
+} */
+
+.as__wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.as__img {
+    margin-right: 20px;
+}
+
+.header__hr {
+    background-color: #F38181;
+    border: none;
+    margin-top: 40px;
+    width: 50px;
+    height: 3px;
+    position: relative;
+    left: 362px;
+top: 10px;
+}

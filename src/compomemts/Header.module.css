@@ -1,0 +1,42 @@
+.logo{
+    color: #95E1D3;
+    font-family: "Montserrat", sans-serif;
+     font-size: 30px;
+  font-weight: 700;
+}
+
+/* F38181 */
+
+header{
+  display: flex;
+  justify-content: space-between;
+}
+
+.header__list{
+display: flex;   
+gap: 55px;
+list-style: none;
+}
+
+.header__link{
+     font-family: "Montserrat", sans-serif;
+   color: #95E1D3;
+}
+
+.active{
+    color: #F38181;
+}
+.container{
+width: 1200px;
+margin: 0 auto;
+}
+
+
+.accent{
+    color: #F38181;
+}
+
+
+.nonaccent{
+    color: #95E1D3;
+}

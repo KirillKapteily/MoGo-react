@@ -1,0 +1,31 @@
+.sub__btn {
+    width: 150px;
+    height: 40px;
+    background: #95E1D3;
+    color: white;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 68px;
+}
+
+.footer__input {
+    width: 230px;
+    height: 40px;
+    border: 1px solid #B6B6B6;
+}
+
+.footer__wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.footer__link {
+    color: #F38181;
+}
+.container{
+width: 1200px;
+margin: 0 auto;
+}

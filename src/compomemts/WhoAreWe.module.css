@@ -1,0 +1,68 @@
+.pre__title {
+    font-family: "Kaushan Script", cursive;
+    font-size: 24px;
+    text-align: center;
+       margin-top: 68px;
+}
+
+.main__title {
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+
+}
+
+.main__list__team {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    gap: 30px;
+         margin-top: 68px;
+
+}
+
+.list__title {
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+}
+
+.list__desc {
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    color: #B6B6B6;
+    font-style: italic;
+}
+
+.main__title__2 {
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+    color: #B6B6B6;
+         margin-top: 45px;
+
+}
+
+.card__title {
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+
+.text__list {
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    color: #B6B6B6;
+}
+
+.main__hr {
+    width: 60px;
+    height: 4px;
+    background-color: #F38181;
+    border: none;
+}
+
+.who__are__we__item{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,32 @@
+[
+    {
+        "img": "/assets/alarm.svg",
+        "title": "photography",
+        "descr": "Lorem ipsum dolor sit amet,  consectetur adipiscing elit, sed do eiusmod tempor."
+    },
+    {
+        "img": "/assets/bar-graph.svg",
+        "title": "photography",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."
+    },
+    {
+        "img": "/assets/comp.svg",
+        "title": "photography",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."
+    },
+    {
+        "img": "/assets/line.svg",
+        "title": "photography",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."
+    },
+    {
+        "img": "/assets/home.svg",
+        "title": "photography",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."
+    },
+    {
+        "img": "/assets/digital-marketing.svg",
+        "title": "photography",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."
+    }
+]

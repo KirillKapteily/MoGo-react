@@ -1,0 +1,22 @@
+[
+    {
+        "isAccent": true,
+        "item": "About"
+    },
+    {
+         "isAccent": false,
+        "item": "Service"
+    },
+    {
+         "isAccent": false,
+        "item": "Work"
+    },
+    {
+         "isAccent": false,
+        "item": "Blog"
+    },
+    {
+         "isAccent": false,
+        "item": "Contact"
+    }
+]
